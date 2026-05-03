@@ -1,5 +1,1 @@
-Большое спасибо создателю модуля minecraft-launcher-lib для python!
-Планы:
-1.0 --- вышла!
-1.1 --- нет!
-2.0 --- нет!
++rep mango mark gcc module from red hat systemd
